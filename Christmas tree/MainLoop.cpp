@@ -8,5 +8,5 @@ MainLoop::MainLoop(GlyphList* glyphList)
 
 MainLoop::~MainLoop()
 {
-	
+	m_glyphList;
 }

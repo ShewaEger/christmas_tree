@@ -148,6 +148,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Christmas tree.cpp" />
+    <ClCompile Include="MainLoop.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lists.h" />
+    <ClInclude Include="MainLoop.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
