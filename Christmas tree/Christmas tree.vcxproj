@@ -147,12 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Buffer.cpp" />
     <ClCompile Include="Christmas tree.cpp" />
-    <ClCompile Include="MainLoop.cpp" />
+    <ClCompile Include="Size.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="lists.h" />
-    <ClInclude Include="MainLoop.h" />
+    <ClInclude Include="Buffer.h" />
+    <ClInclude Include="Size.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

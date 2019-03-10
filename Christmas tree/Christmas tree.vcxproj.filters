@@ -18,15 +18,18 @@
     <ClCompile Include="Christmas tree.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="MainLoop.cpp">
+    <ClCompile Include="Buffer.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Size.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MainLoop.h">
+    <ClInclude Include="Buffer.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="lists.h">
+    <ClInclude Include="Size.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
